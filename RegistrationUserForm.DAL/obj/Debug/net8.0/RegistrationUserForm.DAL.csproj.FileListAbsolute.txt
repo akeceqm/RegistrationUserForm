@@ -1,0 +1,15 @@
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\bin\Debug\net8.0\RegistrationUserForm.DAL.deps.json
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\bin\Debug\net8.0\RegistrationUserForm.DAL.dll
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\bin\Debug\net8.0\RegistrationUserForm.DAL.pdb
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\bin\Debug\net8.0\RegistrationUserForm.Domain.dll
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\bin\Debug\net8.0\RegistrationUserForm.Domain.pdb
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\RegistrationUserForm.DAL.csproj.AssemblyReference.cache
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\RegistrationUserForm.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\RegistrationUserForm.DAL.AssemblyInfoInputs.cache
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\RegistrationUserForm.DAL.AssemblyInfo.cs
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\RegistrationUserForm.DAL.csproj.CoreCompileInputs.cache
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\Registra.6F0D6DB0.Up2Date
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\RegistrationUserForm.DAL.dll
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\refint\RegistrationUserForm.DAL.dll
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\RegistrationUserForm.DAL.pdb
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\ref\RegistrationUserForm.DAL.dll
