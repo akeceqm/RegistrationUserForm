@@ -2,14 +2,15 @@
     ViewData["Title"] = "Registration Page";
 }
 
+
 <div class="d-flex justify-content-center">
     <h4 class="mb-4 text-muted">Регистрация пользователя :)</h4>
 </div>
 <form id="createUserForm" class="w-25 mx-auto" novalidate>
     <div class="mb-3">
         <label class="form-label">Ваш логин</label>
-        <input name="login" type="text" class="form-control" required/>
-        <div class="invalid-feedback">Поле "Логин" обязательно для заполнения.</div>
+        <input pattern="[a-zA-Z0-9]+" name="login" type="text" class="form-control" required />
+        <div class="invalid-feedback">Поле "Логин" обязательно для заполнения. Используйте только латинские буквы и цифры.</div>
     </div>
     <div class="mb-3">
         <label class="form-label">Ваша электронная почта</label>
@@ -18,13 +19,13 @@
     </div>
     <div class="mb-3">
         <label class="form-label">Ваш пароль</label>
-        <input name="password" type="password" class="form-control" required/>
-         <div class="invalid-feedback">Поле "Пароль" обязательно для заполнения.</div>
+        <input pattern="[a-zA-Z0-9]+" name="password" type="password" class="form-control" required/>
+        <div id="passwordLength" class="invalid-feedback">Поле "Пароль" обязательно для заполнения. Используйте только латинские буквы и цифры. Длина пароля должна быть не меньше 8 символов.</div>
     </div>
     <div class="mb-3">
         <label class="form-label">Повторите пароль</label>
-        <input name="repeatPassword" type="password" class="form-control" required/>
-        <div class="invalid-feedback">Поле "Повторите пароль" обязательно для заполнения и должно совпадать с паролем.</div>
+        <input pattern="[a-zA-Z0-9]+" name="repeatPassword" type="password" class="form-control" required/>
+        <div id="passwordMatch" class="invalid-feedback">Поле "Повторите пароль" обязательно для заполнения и должно совпадать с паролем.</div>
     </div>
 
     <div class="d-flex justify-content-center">
@@ -32,36 +33,41 @@
     </div>
 </form>
 
-
 @section Scripts
 {
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
     <script>
         $('#createUser').on('click', function (e){
             e.preventDefault();
-            if (!$("#createUserForm")[0].checkValidity()) {
-               $("#createUserForm").addClass("was-validated");
-               return;
-               }
+
+            var form = $("#createUserForm")[0];
+            if (!form.checkValidity()) {
+                form.classList.add('was-validated');
+                return;
+            }
+
             var password = $('input[name="password"]').val();
             var repeatPassword = $('input[name="repeatPassword"]').val();
-                        
+
+            if (password.length < 8) {
+                $('#passwordLength').show();
+                return;
+            } else {
+                $('#passwordLength').hide();
+            }
+
             if (password !== repeatPassword) {
-            $("#createUserForm").removeClass("was-validated");
-            Swal.fire({
-                    title: 'Ошибка',
-                    text: 'Пароли не совпадают.',
-                    icon: 'error',
-                    confirmButtonText: 'Ок'
-                    });
-                    return;
-            }                            
+                $('#passwordMatch').show();
+                return;
+            } else {
+                $('#passwordMatch').hide();
+            }
+
             $.ajax({
-            type:'POST',
-            url :'@Url.Action("Create", "RegistrationUser")',
-            data:$('#createUserForm').serialize(),
-            success: function (response) {
+                type:'POST',
+                url :'@Url.Action("Create", "RegistrationUser")',
+                data:$('#createUserForm').serialize(),
+                success: function (response) {
                     $('#createUserForm').trigger('reset');
                     Swal.fire({
                         title:'Успешная регистрация',
@@ -70,44 +76,34 @@
                         confirmButtonText:'Окей'
                     })
                },
-            error: function (response){
-                    Swal.fire({
-                        title:'Ошибка регистрации',
-                        text:response.responseJSON.description,
-                        icon:'error',
-                        confirmButtonText:'Окей'
-                    })
-            }
-            })
-            $.validator.addMethod("passwordMatch", function (value, element) {
-                        return this.optional(element) || (value === $('#password').val());
-                    }, "Пароли не совпадают.");
-            
-                    // Инициализируем валидацию формы
-            $('#createUserForm').validate({
-                rules: {
-                        repeatPassword: {
-                        required: true,
-                        passwordMatch: true
-                        }
-                },
-                messages: {
-                           repeatPassword: {
-                           passwordMatch: "Пароли не совпадают."
-                           }
-                },
-                errorElement: 'div',
-                errorPlacement: function (error, element) {
-                            error.addClass('invalid-feedback');
-                            element.closest('.mb-3').append(error);
-                },
-                highlight: function (element, errorClass, validClass) {
-                            $(element).addClass('is-invalid').removeClass('is-valid');
-                },
-                unhighlight: function (element, errorClass, validClass) {
-                            $(element).removeClass('is-invalid').addClass('is-valid');
+                error: function (response) {
+                    if (response.responseJSON) {
+                        Swal.fire({
+                            title:'Ошибка регистрации',
+                            text:response.responseJSON.description,
+                            icon:'error',
+                            confirmButtonText:'Окей'
+                        });
+                    } 
                 }
             });
-        })
+        });
+
+        $('#password, #repeatPassword').on('keyup', function() {
+            var password = $('#password').val();
+            var repeatPassword = $('#repeatPassword').val();
+            
+            if (password !== repeatPassword) {
+                $('#passwordMatch').show();
+            } else {
+                $('#passwordMatch').hide();
+            }
+            
+            if (password.length < 8) {
+                $('#passwordLength').show();
+            } else {
+                $('#passwordLength').hide();
+            }
+        });
     </script>
 }

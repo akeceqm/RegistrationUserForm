@@ -4,20 +4,56 @@
     <projectFile profileName="IIS Express">AutorizationUserForm/AutorizationUserForm.csproj</projectFile>
     <projectFile profileName="http">AutorizationUserForm/AutorizationUserForm.csproj</projectFile>
     <projectFile profileName="https">AutorizationUserForm/AutorizationUserForm.csproj</projectFile>
+    <projectFile profileName="IIS Express">RegistrationUserForm/RegistrationUserForm.csproj</projectFile>
+    <projectFile profileName="http">RegistrationUserForm/RegistrationUserForm.csproj</projectFile>
+    <projectFile profileName="https">RegistrationUserForm/RegistrationUserForm.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35a4a529-13b6-4a89-858d-f29b18996e14" name="Changes" comment="" />
+    <list default="true" id="35a4a529-13b6-4a89-858d-f29b18996e14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AutorizationUserForm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RegistrationUserForm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/Views/RegistrationUser/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/Views/RegistrationUser/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2cjdumJ5j0ggbAEAl93GSUXDUIb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +64,7 @@
     ".NET Launch Settings Profile.AutorizationUserForm: http.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Rebasing TestBranch",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -105,7 +142,47 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="TestBranch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
