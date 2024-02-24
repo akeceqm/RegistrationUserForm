@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegistrationUserForm.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e274535d46bcbca3d85f4bec115776b840da63b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceebf751cd5616f89aa1478982683504629a37fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegistrationUserForm.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegistrationUserForm.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
