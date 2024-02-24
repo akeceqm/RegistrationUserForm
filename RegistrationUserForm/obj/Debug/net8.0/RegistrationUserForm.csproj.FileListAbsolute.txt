@@ -430,3 +430,4 @@ C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm\obj\Deb
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm\obj\Debug\net8.0\RegistrationUserForm.pdb
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm\obj\Debug\net8.0\RegistrationUserForm.genruntimeconfig.cache
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm\obj\Debug\net8.0\ref\RegistrationUserForm.dll
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm\obj\Debug\net8.0\RegistrationUserForm.sourcelink.json

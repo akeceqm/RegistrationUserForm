@@ -13,3 +13,4 @@ C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\refint\RegistrationUserForm.DAL.dll
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\RegistrationUserForm.DAL.pdb
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\ref\RegistrationUserForm.DAL.dll
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.DAL\obj\Debug\net8.0\RegistrationUserForm.DAL.sourcelink.json

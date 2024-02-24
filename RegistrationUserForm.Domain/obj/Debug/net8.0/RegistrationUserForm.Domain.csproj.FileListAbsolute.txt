@@ -9,3 +9,4 @@ C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.Domain\
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\refint\RegistrationUserForm.Domain.dll
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.pdb
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\ref\RegistrationUserForm.Domain.dll
+C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.sourcelink.json

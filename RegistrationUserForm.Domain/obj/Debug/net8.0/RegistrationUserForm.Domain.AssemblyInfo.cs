@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegistrationUserForm.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e274535d46bcbca3d85f4bec115776b840da63b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegistrationUserForm.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegistrationUserForm.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
