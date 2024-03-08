@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A82D67s0XpKCzYDx+FkjsVsU5MXVP3TWPLGR0ccn2PTsUVaxQDiU3nUa+o37B4psqA/pj6QUdhDssWrI+xrunA==",
+  "dgSpecHash": "pHjCa7X7dIvQImenkLwgq9V3Z2cETbWFj42TgHrRvDjuZ0ZDv9AdogQq3B55ohUfnZGqnQUv7Hl0YIBar6EsEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm\\RegistrationUserForm.csproj",
+  "projectFilePath": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm\\RegistrationUserForm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akeceqm\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\akeceqm\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

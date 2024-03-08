@@ -10,3 +10,15 @@ C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.Domain\
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.pdb
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\ref\RegistrationUserForm.Domain.dll
 C:\Users\akeceqm\RiderProjects\AutorizationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.sourcelink.json
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\bin\Debug\net8.0\RegistrationUserForm.Domain.deps.json
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\bin\Debug\net8.0\RegistrationUserForm.Domain.dll
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\bin\Debug\net8.0\RegistrationUserForm.Domain.pdb
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.AssemblyInfoInputs.cache
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.AssemblyInfo.cs
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.sourcelink.json
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.dll
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\refint\RegistrationUserForm.Domain.dll
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\RegistrationUserForm.Domain.pdb
+C:\Users\akeceqm\RiderProjects\RegistrationUserForm\RegistrationUserForm.Domain\obj\Debug\net8.0\ref\RegistrationUserForm.Domain.dll

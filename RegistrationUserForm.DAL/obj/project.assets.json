@@ -579,11 +579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.DAL\\RegistrationUserForm.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.DAL\\RegistrationUserForm.DAL.csproj",
       "projectName": "RegistrationUserForm.DAL",
-      "projectPath": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.DAL\\RegistrationUserForm.DAL.csproj",
+      "projectPath": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.DAL\\RegistrationUserForm.DAL.csproj",
       "packagesPath": "C:\\Users\\akeceqm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.DAL\\obj\\",
+      "outputPath": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akeceqm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -600,8 +600,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj": {
-              "projectPath": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj"
+            "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj": {
+              "projectPath": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj"
             }
           }
         }

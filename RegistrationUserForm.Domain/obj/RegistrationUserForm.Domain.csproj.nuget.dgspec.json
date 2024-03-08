@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj": {}
+    "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj": {
+    "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj",
         "projectName": "RegistrationUserForm.Domain",
-        "projectPath": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj",
+        "projectPath": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj",
         "packagesPath": "C:\\Users\\akeceqm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.Domain\\obj\\",
+        "outputPath": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akeceqm\\AppData\\Roaming\\NuGet\\NuGet.Config",

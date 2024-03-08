@@ -13,15 +13,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35a4a529-13b6-4a89-858d-f29b18996e14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AutorizationUserForm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RegistrationUserForm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RegistrationUserForm/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RegistrationUserForm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RegistrationUserForm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/bin/Debug/net8.0/RegistrationUserForm.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/bin/Debug/net8.0/RegistrationUserForm.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/bin/Debug/net8.0/RegistrationUserForm.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/bin/Debug/net8.0/RegistrationUserForm.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/bin/Debug/net8.0/RegistrationUserForm.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/bin/Debug/net8.0/RegistrationUserForm.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/bin/Debug/net8.0/RegistrationUserForm.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/bin/Debug/net8.0/RegistrationUserForm.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/ref/RegistrationUserForm.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/ref/RegistrationUserForm.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/refint/RegistrationUserForm.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/Debug/net8.0/refint/RegistrationUserForm.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/RegistrationUserForm.DAL.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/RegistrationUserForm.DAL.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.DAL/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/Entity/UserEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/Entity/UserEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/Enum/Role.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/Enum/Role.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/bin/Debug/net8.0/RegistrationUserForm.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/bin/Debug/net8.0/RegistrationUserForm.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/bin/Debug/net8.0/RegistrationUserForm.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/bin/Debug/net8.0/RegistrationUserForm.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/ref/RegistrationUserForm.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/ref/RegistrationUserForm.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/refint/RegistrationUserForm.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/Debug/net8.0/refint/RegistrationUserForm.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/RegistrationUserForm.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/RegistrationUserForm.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/Service/Implementation/UserService.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/RegistrationUserForm/Views/RegistrationUser/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/Views/RegistrationUser/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/bin/Debug/net8.0/RegistrationUserForm.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/ref/RegistrationUserForm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/ref/RegistrationUserForm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/refint/RegistrationUserForm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/refint/RegistrationUserForm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/Debug/net8.0/staticwebassets.pack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/RegistrationUserForm.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/RegistrationUserForm.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationUserForm/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationUserForm/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +131,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;.NET Launch Settings Profile.AutorizationUserForm: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.qwe.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Rebasing TestBranch&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -157,7 +227,31 @@
       <option name="presentableId" value="Default" />
       <updated>1708629148875</updated>
       <workItem from="1708629150285" duration="3222000" />
+      <workItem from="1708852935838" duration="210000" />
+      <workItem from="1708854508344" duration="446000" />
+      <workItem from="1708855053270" duration="3016000" />
+      <workItem from="1708870987527" duration="8000" />
+      <workItem from="1708949544242" duration="116000" />
+      <workItem from="1709054445791" duration="61000" />
+      <workItem from="1709474512785" duration="1076000" />
+      <workItem from="1709664043949" duration="32000" />
+      <workItem from="1709664409928" duration="44000" />
+      <workItem from="1709708407253" duration="58000" />
+      <workItem from="1709791387562" duration="824000" />
+      <workItem from="1709819866828" duration="4231000" />
+      <workItem from="1709832163472" duration="2106000" />
+      <workItem from="1709908581850" duration="8000" />
+      <workItem from="1709908629324" duration="685000" />
     </task>
+    <task id="LOCAL-00001" summary="qwe">
+      <option name="closed" value="true" />
+      <created>1708853108216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708853108216</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +298,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/.idea.RegistrationUserForm/.idea/workspace.xml&#10;#&#9;RegistrationUserForm.DAL/obj/Debug/net8.0/RegistrationUserForm.DAL.sourcelink.json&#10;#&#9;RegistrationUserForm.Domain/obj/Debug/net8.0/RegistrationUserForm.Domain.sourcelink.json&#10;#&#9;RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfo.cs&#10;#&#9;RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.AssemblyInfoInputs.cache&#10;#&#9;RegistrationUserForm/obj/Debug/net8.0/RegistrationUserForm.sourcelink.json&#10;#&#9;RegistrationUserForm/obj/Debug/net8.0/apphost.exe" />
+    <MESSAGE value="qwe" />
+    <option name="LAST_COMMIT_MESSAGE" value="qwe" />
   </component>
 </project>

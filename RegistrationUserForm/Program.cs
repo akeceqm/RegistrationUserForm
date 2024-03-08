@@ -10,6 +10,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
+
+
 builder.Services.AddScoped<IBaseRepository<UserEntity>,UserRepository>();
 builder.Services.AddScoped<IUserService,UserService>();
 
@@ -22,7 +24,6 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 
 var app = builder.Build();
-
 
 
 if (!app.Environment.IsDevelopment())

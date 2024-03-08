@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jd4SNrJkUQDHzQUAQewpVfwPc3SASl8KXZy/yoBSe2PLJ0sDEPsN//f2EtnJLR2VlNPrYD43KEqzQ+BRE2jayA==",
+  "dgSpecHash": "t4arCePej6Z47ZHFENiSzUR+ggJMbOEMQBSdtzeMZp8r7MJc5BRD3rUvmo8nDRy2MzpgAkkdqnLhDVDRuslY0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.DAL\\RegistrationUserForm.DAL.csproj",
+  "projectFilePath": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.DAL\\RegistrationUserForm.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akeceqm\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\akeceqm\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",

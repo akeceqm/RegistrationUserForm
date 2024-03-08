@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ycuB0lJeuNIOto2IXaMJ0mIV9SfQAHsj7SNPxtg6E5oVcCrguLPed12eFTv2YMCZc3NOsr7PscGxFHdCcqKUpw==",
+  "dgSpecHash": "bM14XAZxtQxWiLho5DEjlikXuQWeSaQMQrJOMr1OcuLhV+w9nMTIhCwJwyNSISwrDB13Sdg2PbWvc7uDUJsq2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akeceqm\\RiderProjects\\AutorizationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj",
+  "projectFilePath": "C:\\Users\\akeceqm\\RiderProjects\\RegistrationUserForm\\RegistrationUserForm.Domain\\RegistrationUserForm.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
